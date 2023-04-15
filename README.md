@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varun Jain</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">A passionate Data Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunjain-2001&label=Profile%20views&color=0e75b6&style=flat" alt="varunjain-2001" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/varunja62251433" target="blank"><img src="https://img.shields.io/twitter/follow/varunja62251433?logo=twitter&style=for-the-badge" alt="varunja62251433" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Data Analysis**
 
 - 🌱 I’m currently learning **Data Structures and Algorithm**
 
