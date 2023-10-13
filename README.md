@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithm**
 
-- 👯 I’m looking to collaborate on **Artificial Intelligence and Machine Learning**
+- 👯 I’m looking to collaborate on **Data Analysis and Machine Learning**
 
 - 📫 How to reach me **varunjain5252@gmail.com**
 
