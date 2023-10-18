@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/varunja62251433" target="blank"><img src="https://img.shields.io/twitter/follow/varunja62251433?logo=twitter&style=for-the-badge" alt="varunja62251433" /></a> </p>
 
-- 🔭 I’m currently working on **Data Analysis**
+- 🔭 I’m currently working on **Data Science**
 
 - 🌱 I’m currently learning **Data Structures and Algorithm**
 
