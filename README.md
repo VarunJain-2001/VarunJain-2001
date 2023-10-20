@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **varunjain5252@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jlmDD7ed-cLqAzb7XkX0NU-norZTDevB/view?usp=sharing](https://drive.google.com/file/d/1jlmDD7ed-cLqAzb7XkX0NU-norZTDevB/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11JTofDeuI2womQqujlqXR1N6Nfmx6gCy/view?usp=sharing)
 
 - ⚡ Fun fact **I love to travel and have a passion of cooking.**
 
