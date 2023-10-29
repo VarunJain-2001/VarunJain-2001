@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11JTofDeuI2womQqujlqXR1N6Nfmx6gCy/view?usp=sharing)
 
-- ⚡ Fun fact **I love to travel and have a passion of cooking.**
+- ⚡ Fun fact **I love to travel and have passion of cooking.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
